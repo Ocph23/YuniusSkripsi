@@ -1,0 +1,2 @@
+# YuniusSkripsi
+Sistem Informasi keluarahan
